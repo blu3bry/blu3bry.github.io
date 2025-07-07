@@ -15,6 +15,15 @@ body {
 	font-size: 11px;
 	font-family: Verdana, sans-serif;
 }
+div#bodyWrap {
+	background: url('images/pic.jpg') repeat-x;
+}
+
+div#bodyWrap {
+	width: auto;
+	min-width: 770px;
+	height: 432px;
+}
 }
 
 .container {
