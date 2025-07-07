@@ -9,7 +9,7 @@
 }
 
 body {
- 	background: url('pic.jpg') repeat-x;
+ 	background: url("pic.jpg") repeat-x;
 }
 
 .container {
