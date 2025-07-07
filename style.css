@@ -9,7 +9,7 @@
 }
 
 body {
- 	background: url("images/pic.jpg");
+ 	background-image: url("images/pic.jpg");
 }
 
 .container {
